@@ -2,12 +2,14 @@ body {
   color: #40514E;
   margin: 0;
   text-align: center;
-  font-family: 'Helvetica', 'Roboto Condensed', 'Merriweather', 'Calibri', sans-serif;
+  font-family: 'Helvetica', 'Merriweather', 'Roboto Condensed', 'Calibri', sans-serif;
   font-size: 20px;
 }
 .intro {
   width 30%;
-  margin: auto;
+  margin: 20px 20px;
+  text-align: center;
+  position: relative;
 }
 
 
@@ -29,7 +31,7 @@ h2 {
   font-size: 40px;
   font-weight: normal;
   margin: auto auto 0 auto;
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Helvetica', sans-serif;
   padding-bottom: 10px;
 }
 p {
@@ -37,7 +39,7 @@ p {
 }
 h3 {
   color: #11999E;
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Helvetica', sans-serif;
 }
 .top-container {
   background-color: #005555;
@@ -117,7 +119,7 @@ margin: 40px auto 40px;
   -webkit-box-shadow: 0px 1px 3px #666666;
   -moz-box-shadow: 0px 1px 3px #666666;
   box-shadow: 0px 1px 3px #666666;
-  font-family: Georgia;
+  font-family: Helvetica;
   color: #ffffff;
   font-size: 24px;
   background: #3498db;
